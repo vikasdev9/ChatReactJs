@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Project UI
+![Capture](https://github.com/vikasdev9/ChatReactJs/assets/111718986/26a9370a-214f-4a7f-85d6-2fe14b0f16f0)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
